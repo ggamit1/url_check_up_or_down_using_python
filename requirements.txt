@@ -1,0 +1,3 @@
+python-whois
+mysql-connector-python
+requests
